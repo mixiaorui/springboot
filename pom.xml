@@ -19,7 +19,7 @@
 	</properties>
 
 	<modules>
-		<module>demo</module>
+		<module>back</module>
 	</modules>
 
 </project>
