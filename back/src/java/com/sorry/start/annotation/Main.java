@@ -1,4 +1,4 @@
-package com.sorry.start.Annotation;
+package com.sorry.start.annotation;
 
 public class Main {
 
